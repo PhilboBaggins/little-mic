@@ -4,7 +4,7 @@
   "name": "LittleMic",
   "content": "",
   "created_at": "2020-10-08 22:35:58",
-  "updated_at": "2020-10-11 03:37:30",
+  "updated_at": "2020-10-11 03:55:49",
   "stick": "",
   "documents": [
     {
@@ -79,9 +79,10 @@
           "R0603",
           "R9",
           {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "C25811",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "0603WAF2003T5E",
+            "BOM_Manufacturer": "UniOhm",
             "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
             "uuid": "bb009484ef804a24ac5d18c54b249586"
           }
@@ -92,9 +93,10 @@
           "R0603",
           "R10",
           {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "C4184",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "0603WAF2002T5E",
+            "BOM_Manufacturer": "UniOhm",
             "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
             "uuid": "bb009484ef804a24ac5d18c54b249586"
           }
@@ -118,9 +120,10 @@
           "R0603",
           "R2,R3",
           {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "C25819",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "0603WAF4702T5E",
+            "BOM_Manufacturer": "UniOhm",
             "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
             "uuid": "bb009484ef804a24ac5d18c54b249586"
           }
@@ -131,9 +134,10 @@
           "R0603",
           "R8",
           {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "C4190",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "0603WAF2201T5E",
+            "BOM_Manufacturer": "UniOhm",
             "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
             "uuid": "bb009484ef804a24ac5d18c54b249586"
           }
@@ -144,9 +148,10 @@
           "R0603",
           "R7",
           {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "C21190",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "0603WAF1001T5E",
+            "BOM_Manufacturer": "UniOhm",
             "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
             "uuid": "bb009484ef804a24ac5d18c54b249586"
           }
@@ -157,9 +162,10 @@
           "R0603",
           "R6,R5",
           {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "C25803",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "0603WAF1003T5E",
+            "BOM_Manufacturer": "UniOhm",
             "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
             "uuid": "bb009484ef804a24ac5d18c54b249586"
           }
@@ -259,11 +265,11 @@
           }
         ]
       ],
-      "updateTime": 1602345420,
+      "updateTime": 1602348949,
       "createTime": 1602157364,
       "histories": [],
       "created_at": "2020-10-08 22:42:44",
-      "updated_at": "2020-10-11 02:57:00"
+      "updated_at": "2020-10-11 03:55:49"
     },
     {
       "uuid": "f1989711038297002cddd158d8b1937a",
@@ -295,5 +301,5 @@
   "title": "LittleMic",
   "foldername": "LittleMic",
   "schfilename": "LittleMic.json",
-  "schfilemtime": 1602345420346
+  "schfilemtime": 1602348949337
 }
