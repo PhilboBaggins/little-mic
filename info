@@ -4,7 +4,7 @@
   "name": "LittleMic",
   "content": "",
   "created_at": "2020-10-08 22:35:58",
-  "updated_at": "2020-10-10 20:17:35",
+  "updated_at": "2020-10-11 02:26:38",
   "stick": "",
   "documents": [
     {
@@ -264,6 +264,31 @@
       "histories": [],
       "created_at": "2020-10-08 22:42:44",
       "updated_at": "2020-10-10 20:17:35"
+    },
+    {
+      "uuid": "f1989711038297002cddd158d8b1937a",
+      "puuid": "192e253e6e0bae44c27a91bcc5553cc1",
+      "title": "PCB_2020-10-10_20-19-42",
+      "filename": "PCB_2020-10-10_20-19-42.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "78594bceb2864555aca8162fe0721150": 1,
+        "2ee4c3fc2c4f48428cef515edc080dfa": 1,
+        "5eeabe067f75475e8e1a280aa8294039": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 10,
+        "8685f30498eb4672a60390cb8e921e7a": 1,
+        "25a043cd6bfe4528a121551d6550b565": 1,
+        "f187d3c25f9f43a29b67d3cfa364ee78": 6
+      },
+      "BOM": [],
+      "updateTime": 1602343598,
+      "createTime": 1602321582,
+      "histories": [],
+      "created_at": "2020-10-10 20:19:42",
+      "updated_at": "2020-10-11 02:26:38"
     }
   ],
   "sort": [],
