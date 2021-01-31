@@ -1,14 +1,8 @@
 # LittleMic
 
-???????????????????
-
-[MAX4467](https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf)
-
-
+Little battery powered microphone with a 3.5 mm audio jack. Goes into a lower power sleep mode when the audio jack is disconnected. Uses the [MAX4467](https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf) IC. Designed in [EasyEDA](https://easyeda.com/).
 
 ![./Capture.png](./Capture.png)
-
-Designed in [EasyEDA](https://easyeda.com/).
 
 ## Licence
 
